@@ -211,7 +211,3 @@ If you encounter issues:
 1. Make sure the application is running before executing the script
 2. For some applications, you may need to check the exact process name in Activity Monitor
 3. If permissions errors occur, make sure Script Editor has necessary permissions in System Preferences > Security & Privacy > Privacy > Automation
-
-## License
-
-Feel free to modify and distribute this script as needed.
